@@ -1,0 +1,192 @@
+﻿  2048.cpp
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(13,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file '2048.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Create.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file '2048.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file '2048.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Display.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file '2048.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file '2048.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Feature.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file '2048.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(16,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file '2048.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Game_Process.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file '2048.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file '2048.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\SignIn_Up.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file '2048.cpp')
+  
+  Create.cpp
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(13,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Create.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Create.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Create.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Create.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Display.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Create.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Create.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Feature.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Create.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(16,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Create.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Game_Process.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Create.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Create.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\SignIn_Up.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Create.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Create.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Create.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Display.cpp
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(13,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Display.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Create.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Display.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Display.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Display.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Display.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Display.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Feature.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Display.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(16,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Display.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Game_Process.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Display.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Display.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\SignIn_Up.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Display.cpp')
+  
+  Feature.cpp
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(13,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Feature.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Create.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Feature.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Feature.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Display.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Feature.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Feature.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Feature.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Feature.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(16,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Feature.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Game_Process.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Feature.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Feature.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\SignIn_Up.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Feature.cpp')
+  
+  Game_Process.cpp
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(13,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Game_Process.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Create.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Game_Process.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Game_Process.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Display.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Game_Process.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Game_Process.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Feature.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Game_Process.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(16,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Game_Process.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Game_Process.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Game_Process.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Game_Process.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\SignIn_Up.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Game_Process.cpp')
+  
+  SignIn_Up.cpp
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(13,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'SignIn_Up.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Create.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'SignIn_Up.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'SignIn_Up.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Display.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'SignIn_Up.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'SignIn_Up.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Feature.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'SignIn_Up.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(16,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'SignIn_Up.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\Game_Process.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'SignIn_Up.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\2048.h(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'SignIn_Up.cpp')
+  
+C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\2048_final\SignIn_Up.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'SignIn_Up.cpp')
+  
+  Generating Code...
+  2048_final.vcxproj -> C:\Users\HP\Downloads\23120100\Game 2048\Resources\Resources\x64\Debug\2048_final.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
